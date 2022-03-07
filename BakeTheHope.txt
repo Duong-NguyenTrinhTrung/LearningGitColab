@@ -1,3 +1,7 @@
 I hope that EMBO will create a door to my academic career!
+<<<<<<< HEAD
 
 Finger crossed!
+=======
+I got good support from great scientist!
+>>>>>>> 321d7b7 (Adding scientist info to bake the hope)

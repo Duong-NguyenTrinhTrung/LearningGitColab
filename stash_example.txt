@@ -1,1 +1,3 @@
 This is content exmaple for stash command, created from main branch
+
+We will not commit, but use stash to commit and make the working directory clean

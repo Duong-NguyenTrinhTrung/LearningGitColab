@@ -1,3 +1,0 @@
-This is sample2 content, written from main branch
-
-I add something from sub_branch2

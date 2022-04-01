@@ -1,0 +1,9 @@
+Practice git init
+Practice git clone
+Practice git add
+Practice git status
+Practice git commit
+Practice git log
+Practice git branch
+Practice git merge
+Practice git push

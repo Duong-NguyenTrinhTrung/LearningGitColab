@@ -1,1 +1,2 @@
 remmember to commit after merge
+I add something to remember.txt

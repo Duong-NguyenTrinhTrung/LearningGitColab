@@ -1,2 +1,0 @@
-demo rename file in git 
-whether or not Git can track renamed file 

@@ -1,2 +1,0 @@
-Lesson1-git practice
-git init vs git clone

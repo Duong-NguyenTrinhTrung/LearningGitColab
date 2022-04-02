@@ -1,1 +1,0 @@
-Demo for git commit amend command

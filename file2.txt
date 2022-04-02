@@ -1,1 +1,0 @@
-demo the case that I want to stage 2 files but forgot one and commit

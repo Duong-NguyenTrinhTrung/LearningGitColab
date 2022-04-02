@@ -1,2 +1,0 @@
-a new needing file after git rm the old one 
-Let's see whether or not a commit for this file also make the old one totally gone 
